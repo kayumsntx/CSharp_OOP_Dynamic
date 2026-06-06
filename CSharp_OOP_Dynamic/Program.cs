@@ -46,7 +46,7 @@ namespace CSharp_OOP_Dynamic
                         break;
 
                     default:
-                        console.WriteLine("Invalid Numbers, Try Again");
+                        Console.WriteLine("Invalid Numbers, Try Again");
                         break;
                             
 
