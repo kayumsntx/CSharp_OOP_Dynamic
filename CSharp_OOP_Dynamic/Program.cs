@@ -45,6 +45,11 @@ namespace CSharp_OOP_Dynamic
                         printMotorCycle();
                         break;
 
+                    default:
+                        console.WriteLine("Invalid Numbers, Try Again");
+                        break;
+                            
+
                 }
 
 
